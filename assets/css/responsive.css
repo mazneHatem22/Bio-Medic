@@ -1,0 +1,86 @@
+@media (max-width:1024px){
+   
+    .orders-1{
+        order: 1;
+      }
+      .orders-2{
+          order: 2;
+      }
+      .orders-3{
+          order: 3;
+      }
+      .orders-4{
+          order: 4;
+      }
+      .orders-5{
+          order: 5;
+      }
+      .orders-6{
+          order: 6;
+      }
+      .text-responsive{
+        margin-top: 10px;
+      }
+      .faq .faq-container .faq-item h3 {
+        font-size: 17px !important;
+      }
+      .text-margin{
+        margin-top: 10px;
+        font-size: 23px !important;
+      }
+      .text-direction{
+        text-align: center;
+      }
+     
+}
+@media (max-width:767px){
+   
+    .orders-1{
+        order: 1;
+      }
+      .orders-2{
+          order: 2;
+      }
+      .orders-3{
+          order: 3;
+      }
+      .orders-4{
+          order: 4;
+      }
+      .orders-5{
+        order: 5;
+    }
+    .orders-6{
+        order: 6;
+    }
+      .text-what{
+        margin-top: 1rem;
+      }
+      .width-img{
+        width: 100% !important;
+      }
+      .summary-text{
+        width: 100% !important;
+      }
+      .faq .faq-container .faq-item h3 {
+        font-size: 12px !important;
+      }
+      .text-responsive{
+        margin-top: 10px;
+      }
+      .space{
+        margin-top: 15px !important;
+      }
+      .faq-group{
+        margin-top: 15px;
+      }
+      .faq-group p{
+        font-size: 13px;
+      }
+      .text-margin{
+        margin-top: 10px;
+      }
+      .text-direction{
+        text-align: center;
+      }
+}
