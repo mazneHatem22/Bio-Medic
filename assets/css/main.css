@@ -1852,3 +1852,9 @@ section,
 img{
   border-radius: 10px !important; 
 }
+
+.accordion-button:focus {
+  z-index: 3;
+  outline: 0;
+  box-shadow: none;
+}

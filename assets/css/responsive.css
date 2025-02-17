@@ -83,4 +83,26 @@
       .text-direction{
         text-align: center;
       }
+
+      .png-1{
+        order: 1;
+      }
+      
+      .text-1{
+        order: 2;
+      }
+      .png-2{
+        order: 3;
+      }
+      .text-2{
+        order: 4;
+      }
+      .png-3{
+        order: 5;
+      }
+      .text-3{
+        order: 6;
+      }
+
+
 }
