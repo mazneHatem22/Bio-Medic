@@ -1858,3 +1858,10 @@ img{
   outline: 0;
   box-shadow: none;
 }
+.accordion-text{
+    -webkit-line-clamp: 2;
+    display: -webkit-box;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -webkit-box-orient: vertical;
+}
