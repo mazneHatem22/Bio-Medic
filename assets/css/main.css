@@ -83,7 +83,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: var(--heading-color);
+  color: #1977cc;
   font-family: var(--heading-font);
 }
 
@@ -1273,7 +1273,7 @@ section,
 }
 
 .departments .nav-link:hover {
-  background-color: #00adef;
+  background-color: #1977cc;
   color: white;
 }
 .departments .nav-link:hover h1{
@@ -1283,8 +1283,8 @@ section,
 .departments .nav-link.active {
   /* color: var(--accent-color); */
   color: white;
-  border-color:#00adef;
-  background-color: #00adef;
+  border-color:#1977cc;
+  background-color: #1977cc;
 }
 .departments .nav-link.active h1 {
   color: white;
@@ -1764,7 +1764,7 @@ section,
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 .custom-title {
-  color:#2c4964;
+  color:#1977cc;
   font-weight: bold;
   margin-bottom: 15px;
 }

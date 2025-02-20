@@ -104,5 +104,9 @@
         order: 6;
       }
 
+      .btn-size{
+        font-size: 14px !important;
+      }
+
 
 }
