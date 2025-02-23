@@ -119,5 +119,35 @@
         font-size: 13px;
       }
 
+      .siz-text h2{
+        font-size: 25px;
+      }
+      
+      .siz-text p{
+        font-size: 15px;
+      }
+      .our-work-padg-1 h4{
+        font-size: 20px;
+      }
+      .our-work-padg-1 li{
+        font-size: 15px;
+      }
+      .key-size {
+        font-size: 20px;
+      }
+      .size-int h3{
+        font-size: 23px !important;
+      }
+      .size-int p{
+        font-size: 15px !important;
+      }
+      .faq-size h3{
+        font-size: 20px ;
+      }
+      .faq-size p{
+        font-size: 15px ;
+      }
+     
+
 
 }
